@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zilla Hairball Monitor</string>
+    
+    <!-- Main Screen -->
+    <string name="dashboard_title">Zilla EV Dashboard</string>
+    <string name="connect_bluetooth">Connect to Hairball</string>
+    <string name="disconnect_bluetooth">Disconnect</string>
+    <string name="scanning_for_devices">Scanning for devices...</string>
+    <string name="no_devices_found">No devices found</string>
+    
+    <!-- Metrics -->
+    <string name="battery_voltage">Battery Voltage</string>
+    <string name="battery_current">Battery Current</string>
+    <string name="motor_voltage">Motor Voltage</string>
+    <string name="motor_current">Motor Current</string>
+    <string name="motor_speed">Motor Speed</string>
+    <string name="controller_status">Controller Status</string>
+    <string name="accelerator_position">Accelerator Position</string>
+    <string name="power_output">Power Output</string>
+    <string name="efficiency">Efficiency</string>
+    <string name="temperature">Temperature</string>
+    
+    <!-- Units -->
+    <string name="unit_volts">V</string>
+    <string name="unit_amps">A</string>
+    <string name="unit_rpm">RPM</string>
+    <string name="unit_percent">%</string>
+    <string name="unit_kw">kW</string>
+    <string name="unit_celsius">°C</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="theme_settings">Theme Settings</string>
+    <string name="connection_settings">Connection Settings</string>
+    <string name="display_settings">Display Settings</string>
+    <string name="data_logging">Data Logging</string>
+    <string name="about">About</string>
+    
+    <!-- Status Messages -->
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_error">Error</string>
+    
+    <!-- Error Messages -->
+    <string name="bluetooth_not_available">Bluetooth is not available on this device</string>
+    <string name="bluetooth_not_enabled">Please enable Bluetooth to use this app</string>
+    <string name="connection_failed">Connection failed. Please try again.</string>
+    <string name="permission_required">Location permission is required for Bluetooth scanning</string>
+</resources>

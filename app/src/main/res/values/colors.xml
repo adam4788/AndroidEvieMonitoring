@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="primary">#D50000</color>
+    <color name="primary_dark">#9B0000</color>
+    <color name="primary_light">#FF5131</color>
+    <color name="accent">#FF3D00</color>
+    
+    <!-- Dashboard colors -->
+    <color name="dashboard_background">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="divider">#1FFFFFFF</color>
+    
+    <!-- Gauge colors -->
+    <color name="gauge_background">#212121</color>
+    <color name="gauge_normal">#4CAF50</color>
+    <color name="gauge_warning">#FFC107</color>
+    <color name="gauge_critical">#FF5252</color>
+    
+    <!-- Chart colors -->
+    <color name="chart_line">#FF3D00</color>
+    <color name="chart_fill">#33FF3D00</color>
+    <color name="chart_grid">#33FFFFFF</color>
+    <color name="chart_text">#B3FFFFFF</color>
+    
+    <!-- Status colors -->
+    <color name="status_ok">#4CAF50</color>
+    <color name="status_warning">#FFC107</color>
+    <color name="status_error">#F44336</color>
+    <color name="status_disabled">#757575</color>
+    
+    <!-- Standard colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+</resources>
